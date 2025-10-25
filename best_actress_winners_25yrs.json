@@ -1,0 +1,135 @@
+{
+  "about": {
+    "title": "Academy Award Best Actress Winners",
+      "year": "ceremony year",
+      "winner": "name",
+      "film": "film title"
+  },
+  "winners": [
+    {
+      "year": 2025,
+      "winner": "Mikey Madison",
+      "film": "Anora"
+    },
+    {
+      "year": 2024,
+      "winner": "Emma Stone",
+      "film": "Poor Things"
+    },
+    {
+      "year": 2023,
+      "winner": "Michelle Yeoh",
+      "film": "Everything Everywhere All at Once"
+    },
+    {
+      "year": 2022,
+      "winner": "Jessica Chastain",
+      "film": "The Eyes of Tammy Faye"
+    },
+    {
+      "year": 2021,
+      "winner": "Frances McDormand",
+      "film": "Nomadland"
+    },
+    {
+      "year": 2020,
+      "winner": "Ren\u00e9e Zellweger",
+      "film": "Judy"
+    },
+    {
+      "year": 2019,
+      "winner": "Olivia Colman",
+      "film": "The Favourite"
+    },
+    {
+      "year": 2018,
+      "winner": "Frances McDormand",
+      "film": "Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "year": 2017,
+      "winner": "Emma Stone",
+      "film": "La La Land"
+    },
+    {
+      "year": 2016,
+      "winner": "Brie Larson",
+      "film": "Room"
+    },
+    {
+      "year": 2015,
+      "winner": "Julianne Moore",
+      "film": "Still Alice"
+    },
+    {
+      "year": 2014,
+      "winner": "Cate Blanchett",
+      "film": "Blue Jasmine"
+    },
+    {
+      "year": 2013,
+      "winner": "Jennifer Lawrence",
+      "film": "Silver Linings Playbook"
+    },
+    {
+      "year": 2012,
+      "winner": "Meryl Streep",
+      "film": "The Iron Lady"
+    },
+    {
+      "year": 2011,
+      "winner": "Natalie Portman",
+      "film": "Black Swan"
+    },
+    {
+      "year": 2010,
+      "winner": "Sandra Bullock",
+      "film": "The Blind Side"
+    },
+    {
+      "year": 2009,
+      "winner": "Kate Winslet",
+      "film": "The Reader"
+    },
+    {
+      "year": 2008,
+      "winner": "Marion Cotillard",
+      "film": "La Vie en Rose"
+    },
+    {
+      "year": 2007,
+      "winner": "Helen Mirren",
+      "film": "The Queen"
+    },
+    {
+      "year": 2006,
+      "winner": "Reese Witherspoon",
+      "film": "Walk the Line"
+    },
+    {
+      "year": 2005,
+      "winner": "Hilary Swank",
+      "film": "Million Dollar Baby"
+    },
+    {
+      "year": 2004,
+      "winner": "Charlize Theron",
+      "film": "Monster"
+    },
+    {
+      "year": 2003,
+      "winner": "Nicole Kidman",
+      "film": "The Hours"
+    },
+    {
+      "year": 2002,
+      "winner": "Halle Berry",
+      "film": "Monster's Ball"
+    },
+    {
+      "year": 2001,
+      "winner": "Julia Roberts",
+      "film": "Erin Brockovich"
+    }
+  ]
+}
