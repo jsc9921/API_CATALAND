@@ -1,0 +1,187 @@
+{
+  "about": {
+    "title": "Academy Award Best Actress Winners",
+    "year": "ceremony year",
+    "winner": "name",
+    "film": "film title",
+    "Did_they_deserve_it?": "answer",
+    "did_Actress_picture_align": "answer"
+  },
+  "winners": [
+    {
+      "year": 2025,
+      "winner": "Mikey Madison",
+      "film": "Anora",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "yes"
+    },
+    {
+      "year": 2024,
+      "winner": "Emma Stone",
+      "film": "Poor Things",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2023,
+      "winner": "Michelle Yeoh",
+      "film": "Everything Everywhere All at Once",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "yes"
+    },
+    {
+      "year": 2022,
+      "winner": "Jessica Chastain",
+      "film": "The Eyes of Tammy Faye",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2021,
+      "winner": "Frances McDormand",
+      "film": "Nomadland",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "yes"
+    },
+    {
+      "year": 2020,
+      "winner": "Renee Zellweger",
+      "film": "Judy",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2019,
+      "winner": "Olivia Colman",
+      "film": "The Favourite",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2018,
+      "winner": "Frances McDormand",
+      "film": "Three Billboards Outside Ebbing, Missouri",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2017,
+      "winner": "Emma Stone",
+      "film": "La La Land",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2016,
+      "winner": "Brie Larson",
+      "film": "Room",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2015,
+      "winner": "Julianne Moore",
+      "film": "Still Alice",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2014,
+      "winner": "Cate Blanchett",
+      "film": "Blue Jasmine",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2013,
+      "winner": "Jennifer Lawrence",
+      "film": "Silver Linings Playbook",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2012,
+      "winner": "Meryl Streep",
+      "film": "The Iron Lady",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2011,
+      "winner": "Natalie Portman",
+      "film": "Black Swan",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2010,
+      "winner": "Sandra Bullock",
+      "film": "The Blind Side",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2009,
+      "winner": "Kate Winslet",
+      "film": "The Reader",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2008,
+      "winner": "Marion Cotillard",
+      "film": "La Vie en Rose",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2007,
+      "winner": "Helen Mirren",
+      "film": "The Queen",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2006,
+      "winner": "Reese Witherspoon",
+      "film": "Walk the Line",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2005,
+      "winner": "Hilary Swank",
+      "film": "Million Dollar Baby",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "yes"
+    },
+    {
+      "year": 2004,
+      "winner": "Charlize Theron",
+      "film": "Monster",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2003,
+      "winner": "Nicole Kidman",
+      "film": "The Hours",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2002,
+      "winner": "Halle Berry",
+      "film": "Monster's Ball",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    },
+    {
+      "year": 2001,
+      "winner": "Julia Roberts",
+      "film": "Erin Brockovich",
+      "Did_they_deserve_it?": "yes",
+      "did_Actress_picture_align": "no"
+    }
+  ]
+}
